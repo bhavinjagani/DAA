@@ -1,13 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void swapElement(int &a, int &b)
-{
-    int temp = a;
-    a = b;
-    b = temp;
-}
-
 void selectionsort(vector<int> &arr, int n)
 {
     int i, j, min;
@@ -18,7 +11,7 @@ void selectionsort(vector<int> &arr, int n)
             if (arr[j] < arr[min])
                 min = j;
 
-        swapElement(arr[min], arr[i]);
+        swap(arr[min], arr[i]);
     }
 }
 
