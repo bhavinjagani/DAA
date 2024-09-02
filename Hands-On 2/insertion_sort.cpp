@@ -1,7 +1,8 @@
 #include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
-void sortElements(int a[], int n)
+void sortElements(vector<int> &a, int n)
 {
     for (int i = 1; i < n; i++)
     {
@@ -16,24 +17,28 @@ void sortElements(int a[], int n)
     }
 }
 
-void printElements(int b[], int n)
+void printElements(vector<int> b, int n)
 {
     for (int a = 0; a < n; a++)
     {
         cout << b[a] << " ";
     }
     cout << endl;
-    cout << endl;
-    cout << endl;
 }
 
 int main()
 {
-    int arr[] = {17, 15, 10, 24, 33, 25};
-    int n = sizeof(arr) / sizeof(arr[0]);
-
-    sortElements(arr, n);
-    printElements(arr, n);
+    int size;
+    cout << "Enter the number of elements: ";
+    cin >> size;
+    vector<int> arr(size);
+    cout << "Enter " << size << " Element:" << endl;
+    for (int i = 0; i < size; ++i)
+    {
+        cin >> arr[i];
+    }
+    sortElements(arr, size);
+    printElements(arr, size);
 
     return 0;
 }
