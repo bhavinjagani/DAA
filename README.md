@@ -35,6 +35,7 @@ DAA assignments
 
 
 # Benchmark All Algorithms File
+* I used a C++ library called Chrono to calculate the algorithm's time for different input sizes, and I also used Cstdlib to generate input randomly.
 * Python File For plot Input Vs Time
 [plot time vs input](plot_time_vs_input.ipynb)
 
