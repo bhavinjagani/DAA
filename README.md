@@ -50,9 +50,9 @@ at the start of the i th iteration, the portion of the array before index i is s
 before any iterations occur the sorted portion of the array is empty Therefore, the loop invariant The holds trivially.
 2. Maintenance:
  at each iteration, the algorithm identifies the smallest element in the unsorted part of the array and swaps it with the first element of the unsorted part. this will make sure that  after each swap the element at position i is in its correct position.
- after this swap the portion of the array up to i is sorted as the smallest element from the remaining unsorted section has been moved to its correct place. The remaining unsorted portion still satisfies the  loop invariant, as no elements in it are smaller than those already placed in the sorted section.
+ after this swap the portion of the array up to i is sorted as the smallest element from the remaining unsorted section has been moved to its correct place. The remaining unsorted portion still satisfies the  loop invariant.
 3. Termination:
- 	when the loop finishes the entire array has been processed, and the invariant tells us that the entire array is now sorted. since every element has been compared and placed in the correct position the algorithm has been working fine and sorted the array.
+ 	when the loop finishes the entire array has been processed, and the invariant tells us that the entire array is now sorted.
 # Time Complexity:
  Worst-case and best-case: The algorithm always performs O(n^2) comparisons and swaps because it goes through the entire array for each element, even if the array is already sorted.
 space complexity : O(1), as the algorithm performs the sorting in place without requiring additional space.
