@@ -17,7 +17,7 @@ This function has two nested loops, each running from 1 to n
  # We can express this summations as
  T(n) =
 $$
- \sum_{i=1}^n \sum_{j=1}^n 1
+ 
 $$   
 we can interpreted this as:
 
@@ -26,10 +26,5 @@ we can interpreted this as:
 
 # let's simplify the double summation:
 $$
-T(n)= 
-i=1
-∑
-n
- n=n×n=n 
-2
+\sum_{i=1}^n \sum_{j=1}^n 1
 $$
