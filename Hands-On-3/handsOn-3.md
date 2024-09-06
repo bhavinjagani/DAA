@@ -15,8 +15,9 @@ This function has two nested loops, each running from 1 to n
 * So, in total, the number of operations is the product of the iterations of the two loops.
 
  We can express this summations as
+ T(n) =
 $$
-T(n) = \sum_{i=1}^n \sum_{j=1}^n 1
+ \sum_{i=1}^n \sum_{j=1}^n 1
 $$   
 we can interpreted this as:
 
