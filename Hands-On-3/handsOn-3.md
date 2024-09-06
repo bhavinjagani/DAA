@@ -15,10 +15,9 @@ This function has two nested loops, each running from 1 to n
 * So, in total, the number of operations is the product of the iterations of the two loops.
 
  We can express this summations as
-     𝑇 ( 𝑛 ) = $$
-   T(n) = \sum_{i=1}^{n} \sum_{j=1}^{n} 1
-  $$
-
+$$
+T(n) = \sum_{i=1}^n \sum_{j=1}^n 1
+$$   
 we can interpreted this as:
 
 * For each iteration of the outer loop which runs n times, the inner loop runs n times.
