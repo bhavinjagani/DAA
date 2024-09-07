@@ -43,3 +43,5 @@ Adding the line y = i + j; will not change the overall time complexity. The oper
 Not a remarkable effect as adding one summation line will not increase significant time as it take constant time O(1).
 
 It does not generate a remarkable effect. Adding one summation line will not significantly increase time, as it takes constant time O(1).
+
+6) Implement merge sort, upload your code to github and show/test it on the array [5,2,4,7,1,3,2,6].[`merge_sort.cpp`](Hands-On-3/merge_sort.cpp) 
