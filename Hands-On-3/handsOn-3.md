@@ -9,11 +9,11 @@ function x = f(n)</br>
 1) Find the runtime of the algorithm mathematically.
 ![ans1](ans1.jpg)</br>
 
-2) Time this function for various n e.g. n = 1,2,3.... You should have small values of n all the way up to large values. Plot "time" vs "n" (time on y-axis and n on x-axis). Also, fit a curve to your data, hint it's a polynomial. 
+2) Time this function for various n e.g. n = 1,2,3.... You should have small values of n all the way up to large values. Plot "time" vs "n" (time on y-axis and n on x-axis). Also, fit a curve to your data, hint it's a polynomial.</br> 
 **ANS 2**
 ![time_VS_N](time_VS_n.png)</br>
 
-3) Find polynomials that are upper and lower bounds on your curve from #2. From this specify a big-O, a big-Omega, and what big-theta is.
+3) Find polynomials that are upper and lower bounds on your curve from #2. From this specify a big-O, a big-Omega, and what big-theta is.</br>
 **ANS 3**
 Big-O: 𝑂(𝑛^2 ),which means the upper bound of the algorithm is quadratic.</br>
 Big-Omega: Ω(𝑛^2),meaning the lower bound is also quadratic.</br>
