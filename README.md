@@ -64,5 +64,5 @@ by following the above steps of initialization, maintenance, and termination, we
 ## Hands_On 3
 <details>
 <summary>Details Of Hands On 3 Assignment</summary>
-All Details About Assignment 3 is inside this file :[`handsOn-3.md`](Hands-ON-3/handsOn-3.md) 
+All Details About Assignment 3 is inside this file :[handsOn-3.md](Hands-ON-3/handsOn-3.md) 
 </details>
