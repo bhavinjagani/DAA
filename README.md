@@ -1,10 +1,13 @@
 # DAA
 DAA assignments
 # Student Id : 1002223241
+
 ## Hands_On 2
+
 <details>
 <summary>Details Of Hands On 2 Assignment</summary>
- # Here is my system information:
+
+# Here is my system information:
 
 * OS Name	Microsoft Windows 11 Home Single Language
 * Version	10.0.22631 Build 22631
@@ -61,8 +64,16 @@ space complexity : O(1), as the algorithm performs the sorting in place without 
 by following the above steps of initialization, maintenance, and termination, we can see that selection sort is guaranteed to work correctly.
 </details>
 
-## Hands_On 3
+# Hands_On 3
+
 <details>
+
 <summary>Details Of Hands On 3 Assignment</summary>
-All Details About Assignment 3 is inside this file :[handsOn-3.md](Hands-ON-3/handsOn-3.md) 
+
+* All Details About Assignment 3 is inside this file
+[`handsOn-3.md`](Hands-ON-3/handsOn-3.md) 
+
+* Python File For Time Vs N input[`time_vs_N`](Hands-ON-3/time_vs_n.ipynb)
+* Python File For Find the approximate (eye ball it) location of "n_0"[`n_0`](Hands-ON-3/n_0.ipynb)
+
 </details>
