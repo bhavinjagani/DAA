@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; 
 
 void mergeArray(int arr[], int l,int mid, int r)
 {
