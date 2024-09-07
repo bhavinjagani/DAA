@@ -10,7 +10,7 @@ function x = f(n)</br>
 ![ans1](ans1.jpg)</br>
 
 2) Time this function for various n e.g. n = 1,2,3.... You should have small values of n all the way up to large values. Plot "time" vs "n" (time on y-axis and n on x-axis). Also, fit a curve to your data, hint it's a polynomial.</br> 
-**ANS 2**
+**ANS 2**</br>
 ![time_VS_N](time_VS_n.png)</br>
 
 3) Find polynomials that are upper and lower bounds on your curve from #2. From this specify a big-O, a big-Omega, and what big-theta is.</br>
@@ -18,8 +18,9 @@ function x = f(n)</br>
 Big-O: 𝑂(𝑛^2 ),which means the upper bound of the algorithm is quadratic.</br>
 Big-Omega: Ω(𝑛^2),meaning the lower bound is also quadratic.</br>
 Big-Theta: Θ(𝑛^2),meaning the runtime is exactly 𝑛^2.</br>
-**ANS 4**
+
 4) Find the approximate (eye ball it) location of "n_0" . Do this by zooming in on your plot and indicating on the plot where n_0 is and why you picked this value. Hint: I should see data that does not follow the trend of the polynomial you determined in #2.</br>
+**ANS 4**</br>
 ![N_)](N_0.png)
 
 * Why n_0=50? 
