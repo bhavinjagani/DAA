@@ -71,9 +71,9 @@ by following the above steps of initialization, maintenance, and termination, we
 <summary>Details Of Hands On 3 Assignment</summary>
 
 * All Details About Assignment 3 is inside this file
-[`handsOn-3.md`](Hands-ON-3/handsOn-3.md) 
+[`handsOn-3.md`](Hands-On-3/handsOn-3.md) 
 
-* Python File For Time Vs N input[`time_vs_N`](Hands-ON-3/time_vs_n.ipynb)
-* Python File For Find the approximate (eye ball it) location of "n_0"[`n_0`](Hands-ON-3/n_0.ipynb)
+* Python File For Time Vs N input[`time_vs_N`](Hands-On-3/time_vs_n.ipynb)
+* Python File For Find the approximate (eye ball it) location of "n_0"[`n_0`](Hands-On-3/n_0.ipynb)
 
 </details>
