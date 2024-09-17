@@ -5,6 +5,7 @@ DAA assignments
 ## Hands_On 2
 
 <details>
+
 <summary>Details Of Hands On 2 Assignment</summary>
 
 # Here is my system information:
@@ -64,7 +65,7 @@ space complexity : O(1), as the algorithm performs the sorting in place without 
 by following the above steps of initialization, maintenance, and termination, we can see that selection sort is guaranteed to work correctly.
 </details>
 
-# Hands_On 3
+## Hands_On 3
 
 <details>
 
@@ -76,4 +77,14 @@ by following the above steps of initialization, maintenance, and termination, we
 * Python File For Time Vs N input[`time_vs_N`](Hands-On-3/time_vs_n.ipynb)
 * Python File For Find the approximate (eye ball it) location of "n_0"[`n_0`](Hands-On-3/n_0.ipynb)
 
+</details>
+
+# Hands_On 4
+
+<details>
+
+<summary>Details Of Hands On 4 Assignment</summary>
+
+* All Details About Assignment 3 is inside this file
+[`handsOn-4.md`](Hands-On-4/hands-On-4.md) 
 </details>
