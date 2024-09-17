@@ -8,18 +8,12 @@ x = fib(n)</br>
 
 
 ##  Call Stack for fib(5):
-1.	fib(5):
-o	Calls fib(4) and fib(3)
-2.	fib(4):
-o	Calls fib(3) and fib(2)
-3.	fib(3):
-o	Calls fib(2) and fib(1)
-4.	fib(2):
-o	Calls fib(1) and fib(0)
-5.	fib(1):
-o	Returns 1
-6.	fib(0):
-o	Returns 0
+1.	fib(5):	Calls fib(4) and fib(3)
+2.	fib(4):	Calls fib(3) and fib(2)
+3.	fib(3): Calls fib(2) and fib(1)
+4.	fib(2): Calls fib(1) and fib(0)
+5.	fib(1): Returns 1
+6.	fib(0): Returns 0
 At this point, fib(2) returns 1 + 0 = 1
 7.	fib(2) returns 1 from the previous call stack.
 8.	fib(3) continues by calling fib(1) again (returns 1), so fib(3) returns 1 + 1 = 2
