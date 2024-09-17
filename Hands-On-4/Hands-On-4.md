@@ -54,8 +54,11 @@ Use std::sort() or Merge Sort:
 *	After merging the arrays into a single vector, you can sort the vector in O(K * N log(K * N)) time.
 
 # Problem 2
+
+### Code for Problem 2 is [`problem2.0.cpp`](problem2.0.cpp)
+
 ## Prove the time complexity of the algorithms
-### Code for Problem 2 is [`problem2.0.cpp`](problem2.0.cpp)</br>
+
 **Step-by-Step Time Complexity Analysis**
 1.	Outer Loop:
 	while loop that iterates through the vector, comparing each element to its next element. This loop runs as long as i is less than nums.size() - 1.
