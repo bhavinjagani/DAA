@@ -65,15 +65,15 @@ Use std::sort() or Merge Sort:
 2.	erase() Operation:
 	The erase(nums.begin() + i) operation removes the element at position i and shifts all subsequent elements to the left by one position. The time complexity of erase() for a vector is O(n).
 
-3. Best Case :
+3. **Best Case** :
 *	In this case, the loop runs O(n) times, where n is the size of the vector. There are no erase operations in this scenario.
 *	Best-case time complexity: O(n).
-2. Worst Case (All Duplicates):
+2. **Worst Case (All Duplicates)**:
 *	If every element is a duplicate, you will call erase() for every element except the first one.
 *	The erase() operation takes O(n - i) for each iteration, where n is the size of the vector and i is the current index.
 *	In the worst case, the time complexity is approximately: O(n+(n−1)+(n−2)+⋯+1)=O(n2)O(n + (n - 1) + (n - 2) + \dots + 1) = O(n^2)O(n+(n−1)+(n−2)+⋯+1)=O(n2)
 *	Worst-case time complexity: O(n^2).
-3. Average Case:
+3. **Average Case:**
 *	The average case is somewhere between the best and worst cases. If the array has a mix of duplicates and unique elements, the number of erase() operations will be fewer than in the worst case.
 *	The time complexity would still depend on how often you call erase(), and it could vary between O(n) and O(n^2).
 
