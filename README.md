@@ -86,5 +86,5 @@ by following the above steps of initialization, maintenance, and termination, we
 <summary>Details Of Hands On 4 Assignment</summary>
 
 * All Details About Assignment 3 is inside this file
-[`handsOn-4.md`](Hands-On-4/hands-On-4.md) 
+[`handsOn-4.md`](Hands-On-4/Hands-On-4.md) 
 </details>
