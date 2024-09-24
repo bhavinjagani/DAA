@@ -1,4 +1,4 @@
-# Source Code[`min-heap.cpp`](min-heap.cppmin-heap.cpp)
+# Source Code[`min-heap.cpp`](min-heap.cpp)
 
 ## Example With Int Type :
 * input = {1, 2, 6, 5, 3, 8, 7 }
