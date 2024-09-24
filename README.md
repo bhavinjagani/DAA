@@ -95,6 +95,6 @@ by following the above steps of initialization, maintenance, and termination, we
 
 <summary>Details Of Hands On 5 Assignment</summary>
 
-* All Details About Assignment 3 is inside this file
+* All Details About Assignment 5 is inside this file
 [`hands-On-5.md`](Hands-On-5/Hands-On-5.md) 
 </details>
