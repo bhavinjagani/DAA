@@ -88,3 +88,13 @@ by following the above steps of initialization, maintenance, and termination, we
 * All Details About Assignment 3 is inside this file
 [`handsOn-4.md`](Hands-On-4/Hands-On-4.md) 
 </details>
+
+# Hands_On 5
+
+<details>
+
+<summary>Details Of Hands On 5 Assignment</summary>
+
+* All Details About Assignment 3 is inside this file
+[`hands-On-5.md`](Hands-On-5/Hands-On-5.md) 
+</details>
