@@ -1,6 +1,6 @@
 ### 1 quicksort random and non-random choice for the pivot
-* Code for QuickSort with Random Pivot is [`quicksort-random-pivot.cpp`](/quicksort-random-pivot.cpp)
-* Code for QuickSort with NonRandom Pivot is [`quicksort-nonrandom-pivot.cpp`](/benchmarking-non-random-quicksort.cpp)
+* Code for QuickSort with Random Pivot is [`quicksort-random-pivot.cpp`](quicksort-random-pivot.cpp)
+* Code for QuickSort with NonRandom Pivot is [`quicksort-nonrandom-pivot.cpp`](benchmarking-non-random-quicksort.cpp)
 
 ### 2 For the non-random pivot version of quicksort show the following benchmarks on the same graph
 * 2a best case (generate a set of inputs that will always be the best case, repeat for multiple array input sizes "n").
