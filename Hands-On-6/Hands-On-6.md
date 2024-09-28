@@ -21,7 +21,7 @@ Input_best = [100, 1000, 5000, 10000, 20000, 50000]</br>
 Time Avg = [2.21e-05, 0.0001491, 0.000854, 0.0018325, 0.0034668, 0.0092737]
 
 ## Input Vs Time Ploat 
-![`input Vs Time`](/benchmark_non-random%20pivot%20version%20of%20quicksort.png)
+![`input Vs Time`](benchmark_non_random_pivot_version_of_quicksort.png)
 
 ## 3. Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
 [`Answer-Q-3.pdf`](Hands-On-6-Q-3.pdf)
