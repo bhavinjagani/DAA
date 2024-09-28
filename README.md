@@ -89,7 +89,7 @@ by following the above steps of initialization, maintenance, and termination, we
 [`handsOn-4.md`](Hands-On-4/Hands-On-4.md) 
 </details>
 
-# Hands_On 5
+## Hands_On 5
 
 <details>
 
@@ -106,5 +106,5 @@ by following the above steps of initialization, maintenance, and termination, we
 <summary>Details Of Hands On 6 Assignment</summary>
 
 * All Details About Assignment 6 is inside this file
-[`hands-On-5.md`](Hands-On-6/Hands-On-6.md) 
+[`hands-On-6.md`](Hands-On-6/Hands-On-6.md) 
 </details>
