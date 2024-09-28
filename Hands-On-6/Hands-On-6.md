@@ -10,11 +10,13 @@
 Input_best = [100, 1000, 5000, 10000, 20000, 50000]</br>
 Time_best = [6.5e-06,7.74e-05,0.0002357,0.0004109 ,0.0008858,0.0023719]
 
+* 2b worst case (generate a set of inputs that will always be the worst case, repeat for multiple array input sizes "n").
 **Input Size and Time For Worst Case**
 
 Input_best = [100, 1000, 5000, 10000, 20000, 50000]</br>
 Time_worst = [7.3e-06, 4e-05, 0.0002267, 0.000482, 0.0009407, 0.0024991]
 
+* 2c average case (generate a set of inputs from a uniform distribution, repeat for multiple array input sizes "n").
 **Input Size and Time For Average Case**
 
 Input_best = [100, 1000, 5000, 10000, 20000, 50000]</br>
