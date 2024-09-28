@@ -24,5 +24,5 @@ Time Avg = [2.21e-05, 0.0001491, 0.000854, 0.0018325, 0.0034668, 0.0092737]
 ![`input Vs Time`](benchmark_non_random_pivot_version_of_quicksort.png)
 
 ## 3. Mathematically derive the average runtime complexity of the non-random pivot version of quicksort.
-[`Answer-Q-3.pdf`](Hands-On-6-Q-3.pdf)
+[`Answer-Q-3.pdf`](/Hands-On-6-Q-3.pdf)
 
