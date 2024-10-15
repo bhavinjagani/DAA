@@ -57,7 +57,7 @@ public:
 };
 int main(){
  Queue Q;
- std::cout<<"Element of stack :";
+ std::cout<<"Element of Queue :";
     for (int i = 0; i < 10; ++i) {
         int a =rand() % 1000;
         std::cout<<a<<" ";
