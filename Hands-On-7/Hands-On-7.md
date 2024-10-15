@@ -8,7 +8,7 @@ Code for Quick Select [`quick-select.cpp`](/Hands-On-7/quick-select.cpp)</br>
 * 1 Code for Stack [`stack.cpp`](/Hands-On-7/stack.cpp)
 * Output Of Stack :</br> ![`stack_output.png`](/Hands-On-7/stack_output.png)
 
-* 2 Code for Queue [`queue.cpp`](/Hands-On-7/queue_output.png)
+* 2 Code for Queue [`queue.cpp`](/Hands-On-7/queue.cpp)
 * Output Of Queue:</br> ![`queue_output.png`](/Hands-On-7/queue_output.png)
 
 * 3 Code For singly_Linkedlist[`singly_Linkedlist.cpp`](/Hands-On-7/singly_Linkedlist.cpp)
