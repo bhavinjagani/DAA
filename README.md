@@ -99,7 +99,7 @@ by following the above steps of initialization, maintenance, and termination, we
 [`hands-On-5.md`](Hands-On-5/Hands-On-5.md) 
 </details>
 
-# Hands_On 6
+## Hands_On 6
 
 <details>
 
@@ -109,7 +109,7 @@ by following the above steps of initialization, maintenance, and termination, we
 [`hands-On-6.md`](Hands-On-6/Hands-On-6.md) 
 </details>
 
-# Hands_On 8
+## Hands_On 8
 
 <details>
 
@@ -117,4 +117,14 @@ by following the above steps of initialization, maintenance, and termination, we
 
 * All Details About Assignment 8 is inside this file
 [`hands-On-8.md`](Hands-On-7/Hands-On-7.md) 
+</details>
+
+# Hands_On 9
+
+<details>
+
+<summary>Details Of Hands On 9 Assignment</summary>
+
+* All Details About Assignment 9 is inside this file
+[`hands-On-9.md`](Hands-On-9/Hash_table/Hands-On-9.md) 
 </details>

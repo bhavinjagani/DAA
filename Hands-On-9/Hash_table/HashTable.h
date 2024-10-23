@@ -32,6 +32,7 @@ public:
     void insert(int key, int value);
     bool remove(int key);
     Node* search(int key);
+    void printHashTable();
     ~HashTable();
 };
 

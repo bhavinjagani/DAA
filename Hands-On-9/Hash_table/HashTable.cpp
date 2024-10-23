@@ -40,18 +40,15 @@ void HashTable::resize(int newSize) {
     capacity = newSize;
 }
 
-// Insert a key-value pair
 void HashTable::insert(int key, int value) {
     if (currentSize >= capacity) {
         resize(2 * capacity);
     }
     int index = hashFunction->hash(key, capacity);
-     std::cout<<"index",index;
     table[index]->append(key, value);
     ++currentSize;
 }
 
-// Remove a key from the hash table
 bool HashTable::remove(int key) {
     int index = hashFunction->hash(key, capacity);
     bool removed = table[index]->remove(key);
@@ -63,14 +60,31 @@ bool HashTable::remove(int key) {
     }
     return removed;
 }
+void HashTable::printHashTable(){
+    std::cout << "Hash Table Contents:\n";
+    for (int i = 0; i < capacity; ++i) {
+        std::cout << "Index " << i << ": ";
+        if (table[i]->head == nullptr) {
+            std::cout << "empty";
+        } else {
+            Node* current = table[i]->head;
+            while (current) {
+                std::cout << "(" << current->key << ", " << current->value << ")";
+                if (current->next != nullptr) {
+                    std::cout << " -> ";
+                }
+                current = current->next;
+            }
+        }
+        std::cout << std::endl;
+    }
+}
 
-// Search for a key in the hash table
 Node* HashTable::search(int key) {
     int index = hashFunction->hash(key, capacity);
     return table[index]->search(key);
 }
 
-// Destructor
 HashTable::~HashTable() {
     for (int i = 0; i < capacity; ++i) {
         delete table[i];
