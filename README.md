@@ -128,3 +128,13 @@ by following the above steps of initialization, maintenance, and termination, we
 * All Details About Assignment 9 is inside this file
 [`hands-On-9.md`](Hands-On-9/Hash_table/Hands-On-9.md) 
 </details>
+
+# Hands_On 10
+
+<details>
+
+<summary>Details Of Hands On 10 Assignment</summary>
+
+* All Details About Assignment 10 is inside this file
+[`Hands-On-10.md`](/Hands-On-10/Hands-On-10.md) 
+</details>
