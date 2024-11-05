@@ -1,6 +1,6 @@
 * 1. Implement a dynamic array (that is a C++ vector). You are only allowed to use C style arrays. Assume the datatype is an int.
 
-* Code For  Dynamic Array Implementation:
+### Code For  Dynamic Array Implementation:
 ## Code For [`c_style_array.cpp`](/Hands-On-11/c_style_array.cpp)
 * Output :</br>![`c_style_output`](/Hands-On-11/c_style_output.png)
 
