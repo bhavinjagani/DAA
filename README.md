@@ -129,7 +129,7 @@ by following the above steps of initialization, maintenance, and termination, we
 [`hands-On-9.md`](Hands-On-9/Hash_table/Hands-On-9.md) 
 </details>
 
-# Hands_On 10
+## Hands_On 10
 
 <details>
 
@@ -137,4 +137,14 @@ by following the above steps of initialization, maintenance, and termination, we
 
 * All Details About Assignment 10 is inside this file
 [`Hands-On-10.md`](/Hands-On-10/Hands-On-10.md) 
+</details>
+
+# Hands_On 11
+
+<details>
+
+<summary>Details Of Hands On 11 Assignment</summary>
+
+* All Details About Assignment 11 is inside this file
+[`Hands-On-11.md`](/Hands-On-11/Hands-On-11.md) 
 </details>
